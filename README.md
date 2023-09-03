@@ -1,16 +1,11 @@
 # yes_no_app
 
-A new Flutter project.
+Un proyecto de Flutter que permite ver los principio de arquitectura limpia. No en su totalidad.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Para poder ver este proyecto, debes tener instalado el SDK de Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+me puedes enviar consultas a lucas.sola.85@gmail.com con el asunto: yes_no_app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gracias 💚
